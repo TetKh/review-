@@ -19,6 +19,8 @@ public class ClassTask066 {
         list.add('#');
         list.add('&');
         list.add('%');
+       // list.add('&');
+       // list.add('%');
 
 
         removeNonAlphaNumeric(list);
